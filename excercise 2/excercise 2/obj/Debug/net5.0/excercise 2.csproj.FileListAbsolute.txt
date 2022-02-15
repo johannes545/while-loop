@@ -1,0 +1,16 @@
+C:\Users\Johannes\Desktop\selection statements\excercise 2\excercise 2\bin\Debug\net5.0\excercise 2.exe
+C:\Users\Johannes\Desktop\selection statements\excercise 2\excercise 2\bin\Debug\net5.0\excercise 2.deps.json
+C:\Users\Johannes\Desktop\selection statements\excercise 2\excercise 2\bin\Debug\net5.0\excercise 2.runtimeconfig.json
+C:\Users\Johannes\Desktop\selection statements\excercise 2\excercise 2\bin\Debug\net5.0\excercise 2.runtimeconfig.dev.json
+C:\Users\Johannes\Desktop\selection statements\excercise 2\excercise 2\bin\Debug\net5.0\excercise 2.dll
+C:\Users\Johannes\Desktop\selection statements\excercise 2\excercise 2\bin\Debug\net5.0\ref\excercise 2.dll
+C:\Users\Johannes\Desktop\selection statements\excercise 2\excercise 2\bin\Debug\net5.0\excercise 2.pdb
+C:\Users\Johannes\Desktop\selection statements\excercise 2\excercise 2\obj\Debug\net5.0\excercise 2.csproj.AssemblyReference.cache
+C:\Users\Johannes\Desktop\selection statements\excercise 2\excercise 2\obj\Debug\net5.0\excercise 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johannes\Desktop\selection statements\excercise 2\excercise 2\obj\Debug\net5.0\excercise 2.AssemblyInfoInputs.cache
+C:\Users\Johannes\Desktop\selection statements\excercise 2\excercise 2\obj\Debug\net5.0\excercise 2.AssemblyInfo.cs
+C:\Users\Johannes\Desktop\selection statements\excercise 2\excercise 2\obj\Debug\net5.0\excercise 2.csproj.CoreCompileInputs.cache
+C:\Users\Johannes\Desktop\selection statements\excercise 2\excercise 2\obj\Debug\net5.0\excercise 2.dll
+C:\Users\Johannes\Desktop\selection statements\excercise 2\excercise 2\obj\Debug\net5.0\ref\excercise 2.dll
+C:\Users\Johannes\Desktop\selection statements\excercise 2\excercise 2\obj\Debug\net5.0\excercise 2.pdb
+C:\Users\Johannes\Desktop\selection statements\excercise 2\excercise 2\obj\Debug\net5.0\excercise 2.genruntimeconfig.cache
