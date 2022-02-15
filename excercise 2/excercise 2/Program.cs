@@ -6,10 +6,13 @@ namespace excercise_2
     {
         static void Main(string[] args)
         {
+            string favoriteSubject = "";
+            
             
             Console.WriteLine("what is your favorite school subject?");
-            var favoriteSubject = Console.ReadLine();
-            switch (favoriteSubject)
+            
+            favoriteSubject = Console.ReadLine();
+            switch (favoriteSubject.ToLower())
             {
                 case "Math":
                     Console.WriteLine("wow your a real chad");
