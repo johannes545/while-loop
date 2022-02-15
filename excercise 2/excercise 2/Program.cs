@@ -14,16 +14,16 @@ namespace excercise_2
             favoriteSubject = Console.ReadLine();
             switch (favoriteSubject.ToLower())
             {
-                case "Math":
+                case "math":
                     Console.WriteLine("wow your a real chad");
                     break;
-                case "Science":
+                case "science":
                     Console.WriteLine("gosh dang it, stem field money inc");
                     break;
-                case "English":
+                case "english":
                     Console.WriteLine("useless subject ://");
                     break;
-                case "Danish":
+                case "danish":
                     Console.WriteLine("what are you, a dane? kek");
                     break;
                 case "social studies":
